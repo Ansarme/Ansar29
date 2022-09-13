@@ -2,7 +2,7 @@
 This is first repository 
 # " This is my first CI/CD "
 
-# Digitalclock in python. 
+# Digitalclock in .py
 
 
 from tkinter import Label, Tk 
